@@ -1,0 +1,21 @@
+{
+  "serverName": "Hexacity",
+  "serverIp": "hexacity.server.net",
+  "serverPort": "25565",
+  "minecraftVersion": "1.21.1",
+  "neoforgeVersion": "21.1.206",
+  "defaultRam": "4G",
+  "minRam": "2G",
+  "authMode": "offline",
+  "features": {
+    "autoUpdate": true,
+    "serverStatusCheck": true,
+    "newsSection": true
+  },
+  "theme": {
+    "primaryColor": "#d946ef",
+    "secondaryColor": "#a855f7",
+    "backgroundColor": "#1a0b2e",
+    "backgroundGradient": "#2d1b4e"
+  }
+}

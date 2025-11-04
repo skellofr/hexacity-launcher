@@ -1,0 +1,82 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              🎮  HEXACITY LAUNCHER v1.0.0  🎮               ║
+║                                                              ║
+║              Launcher Minecraft Professionnel                ║
+║                  pour le serveur Hexacity                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✨ FÉLICITATIONS ! Ton launcher est COMPLET et prêt pour production !
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 COMMENCE ICI :
+
+  1. Ouvre    📘 INDEX.md         ← Navigation dans la doc
+  2. Lis      ⚡ QUICK-START.md   ← Lancer en 15 minutes
+  3. Consulte 📋 ETAT-PROJET.md   ← État actuel du projet
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 MISE EN PRODUCTION RAPIDE (15 minutes) :
+
+  1. Crée le repository GitHub      (2 min)
+  2. Télécharge NeoForge 21.1.206   (1 min)
+  3. Compile avec `npm run build`   (5 min)
+  4. Crée la Release sur GitHub     (3 min)
+  5. Teste et distribue !           (3 min)
+
+  👉 Toutes les instructions dans QUICK-START.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 FICHIERS IMPORTANTS :
+
+  📘 INDEX.md                 - Navigation dans la documentation
+  ⚡ QUICK-START.md          - Guide express (15 min)
+  📋 ETAT-PROJET.md          - État actuel et prochaines étapes
+  📗 README.md               - Vue d'ensemble complète
+  📝 TODO-DEPLOIEMENT.md     - Déploiement détaillé
+  
+  🔄 MISE-A-JOUR-GUIDE.md    - Publier des mises à jour
+  📰 GITHUB-GIST-GUIDE.md    - Gérer les actualités
+  🔗 LIENS-RESSOURCES.md     - Tous les liens utiles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ CE QUI EST FAIT :
+
+  ✓ Interface moderne violet/magenta
+  ✓ Authentification Microsoft
+  ✓ Mode cracked/offline
+  ✓ Mises à jour automatiques
+  ✓ Actualités dynamiques (GitHub Gist)
+  ✓ Fenêtre redimensionnable
+  ✓ Documentation complète (10 fichiers)
+  ✓ Prêt pour production !
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 COMMANDES RAPIDES :
+
+  npm install    # Installer les dépendances
+  npm start      # Lancer en mode développement
+  npm run build  # Compiler pour Windows
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 PROCHAINE ÉTAPE :
+
+  👉 Ouvre INDEX.md pour commencer
+  
+  Ou directement QUICK-START.md si tu veux lancer rapidement !
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💜 Fait avec passion pour la communauté Hexacity 💜
+
+GitHub: github.com/skellofr/hexacity-launcher
+Serveur: hexacity.server.net:25565
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

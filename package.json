@@ -1,0 +1,60 @@
+{
+  "name": "hexacity-launcher",
+  "version": "1.0.0",
+  "description": "Launcher Minecraft personnalisé pour le serveur Hexacity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skellofr/hexacity-launcher.git"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [
+    "minecraft",
+    "launcher",
+    "hexacity"
+  ],
+  "author": "Hexacity",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "dependencies": {
+    "@xmcl/user": "^2.1.8",
+    "electron-updater": "^6.6.2",
+    "minecraft-launcher-core": "^3.17.3",
+    "node-fetch": "^2.7.0",
+    "prismarine-auth": "^2.7.0"
+  },
+  "build": {
+    "appId": "com.hexacity.launcher",
+    "productName": "Hexacity Launcher",
+    "publish": {
+      "provider": "github",
+      "owner": "skellofr",
+      "repo": "hexacity-launcher"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico",
+      "publisherName": "Hexacity"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    },
+    "files": [
+      "**/*",
+      "!README.md",
+      "!ACTUALITES.md",
+      "!HEBERGEMENT-NEWS.md",
+      "!GITHUB-GIST-GUIDE.md",
+      "!INSTALLATION.md"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hexacity Launcher</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="launcher-container">
+    <!-- Notification de mise à jour -->
+    <div class="update-notification" id="updateNotification" style="display: none;">
+      <div class="update-content">
+        <span class="update-icon">⬇️</span>
+        <div class="update-text">
+          <strong id="updateTitle">Mise à jour disponible</strong>
+          <p id="updateMessage">Téléchargement en cours...</p>
+        </div>
+        <button class="update-install-btn" id="updateInstallBtn" style="display: none;">
+          Installer maintenant
+        </button>
+      </div>
+      <div class="update-progress-bar" id="updateProgressBar" style="display: none;">
+        <div class="update-progress-fill" id="updateProgressFill"></div>
+      </div>
+    </div>
+
+    <!-- Barre de titre personnalisée -->
+    <div class="title-bar">
+      <div class="title-left">
+        <img src="assets/logo.png" alt="Hexacity" class="logo">
+        <span class="title-text">HEXACITY LAUNCHER</span>
+      </div>
+      <div class="title-controls">
+        <button class="title-btn minimize" id="minimizeBtn">─</button>
+        <button class="title-btn close" id="closeBtn">✕</button>
+      </div>
+    </div>
+
+    <!-- Contenu principal -->
+    <div class="main-content">
+      <!-- Panneau latéral -->
+      <div class="sidebar">
+        <div class="server-info">
+          <h2>Serveur Hexacity</h2>
+          <div class="server-status">
+            <span class="status-dot online"></span>
+            <span id="serverStatus">En ligne</span>
+          </div>
+          <p class="server-ip">hexacity.server.net</p>
+        </div>
+
+        <div class="version-info">
+          <h3>Version</h3>
+          <p>Minecraft 1.21.1</p>
+          <p>NeoForge 21.1.206</p>
+        </div>
+
+        <div class="settings">
+          <h3>Paramètres</h3>
+          <label for="ramSelect">RAM allouée:</label>
+          <select id="ramSelect">
+            <option value="2G">2 GB</option>
+            <option value="4G" selected>4 GB</option>
+            <option value="6G">6 GB</option>
+            <option value="8G">8 GB</option>
+            <option value="12G">12 GB</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Zone principale -->
+      <div class="main-area">
+        <div class="background-image"></div>
+        
+        <div class="login-section">
+          <h1>Bienvenue sur Hexacity</h1>
+          
+          <!-- Section authentification Microsoft -->
+          <div id="authSection">
+            <div class="auth-status" id="authStatus">
+              <p>Connectez-vous avec votre compte Microsoft</p>
+            </div>
+            
+            <button class="microsoft-btn" id="microsoftBtn">
+              <span class="btn-icon">🎮</span>
+              <span class="btn-text">SE CONNECTER AVEC MICROSOFT</span>
+            </button>
+
+            <div class="divider">
+              <span>OU</span>
+            </div>
+
+            <button class="offline-btn" id="offlineBtn">
+              <span class="btn-text">MODE HORS-LIGNE (CRACKED)</span>
+            </button>
+          </div>
+
+          <!-- Section mode offline -->
+          <div id="offlineSection" style="display: none;">
+            <div class="input-group">
+              <label for="username">Pseudo Minecraft</label>
+              <input type="text" id="username" placeholder="Votre pseudo" required>
+            </div>
+            <button class="back-btn" id="backBtn">← Retour</button>
+          </div>
+
+          <!-- Section utilisateur connecté -->
+          <div id="userSection" style="display: none;">
+            <div class="user-info">
+              <div class="user-avatar" id="userAvatar"></div>
+              <div class="user-details">
+                <h3 id="userUsername">Joueur</h3>
+                <p id="userUuid">UUID</p>
+              </div>
+              <button class="logout-btn" id="logoutBtn">Déconnexion</button>
+            </div>
+          </div>
+
+          <div class="progress-container" id="progressContainer" style="display: none;">
+            <div class="progress-bar">
+              <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <p class="progress-text" id="progressText">Préparation...</p>
+          </div>
+
+          <button class="launch-btn" id="launchBtn" style="display: none;">
+            <span class="btn-text">LANCER LE JEU</span>
+          </button>
+
+          <div class="error-message" id="errorMessage" style="display: none;"></div>
+        </div>
+
+        <div class="news-section">
+          <h3>📢 Actualités du serveur</h3>
+          <div id="newsList">
+            <div class="news-item">
+              <p><strong>Chargement des actualités...</strong></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

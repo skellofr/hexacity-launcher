@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "🎉 Bienvenue sur Hexacity!",
+      "content": "Rejoignez notre serveur Minecraft 1.21.1 avec NeoForge 21.1.206.",
+      "date": "2025-11-04",
+      "important": true
+    },
+    {
+      "id": 2,
+      "title": "⚡ Nouvelle mise à jour",
+      "content": "Le launcher a été mis à jour avec l'authentification Microsoft !",
+      "date": "2025-11-04",
+      "important": false
+    },
+    {
+      "id": 3,
+      "title": "🎮 Événement du week-end",
+      "content": "Participez à notre événement spécial ce week-end pour gagner des récompenses !",
+      "date": "2025-11-04",
+      "important": false
+    }
+  ],
+  "serverStatus": {
+    "online": true,
+    "players": 0,
+    "maxPlayers": 100,
+    "motd": "Serveur Hexacity - Venez jouer !",
+    "version": "1.21.1"
+  }
+}

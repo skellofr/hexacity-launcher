@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  HEXACITY LAUNCHER - DÉMARRAGE ÉCLAIR ⚡
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 COMMENCE PAR : START-HERE.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 LANCER EN PROD (15 MIN) :
+
+1. GitHub : Crée skellofr/hexacity-launcher
+2. NeoForge : Télécharge 21.1.206 → forge/
+3. Build : npm run build
+4. Release : Upload sur GitHub
+5. DONE ! ✅
+
+Détails → QUICK-START.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 NAVIGATION :
+
+INDEX.md → Tous les guides
+README.md → Vue complète
+ETAT-PROJET.md → État actuel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ FONCTIONNALITÉS :
+
+✓ Auth Microsoft + Mode cracked
+✓ Mises à jour automatiques
+✓ Actualités GitHub Gist
+✓ Interface violet/magenta
+✓ 12 guides complets
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💜 100% PRÊT POUR PRODUCTION 💜
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
