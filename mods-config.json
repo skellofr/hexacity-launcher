@@ -1,0 +1,298 @@
+{
+  "modsRepository": "skellofr/hexacity-mods",
+  "modsVersion": "1.0.0",
+  "requiredMods": [
+    {
+      "name": "AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "amendments-1.21-2.0.5-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/amendments-1.21-2.0.5-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "Aquaculture-1.21.1-2.7.14.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/Aquaculture-1.21.1-2.7.14.jar",
+      "required": true
+    },
+    {
+      "name": "architectury-13.0.8-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/architectury-13.0.8-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "automobility-0.5.0.c+1.21.1-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/automobility-0.5.0.c+1.21.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.51.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/balm-neoforge-1.21.1-21.0.51.jar",
+      "required": true
+    },
+    {
+      "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+      "required": true
+    },
+    {
+      "name": "buildinggadgets2-1.3.9.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/buildinggadgets2-1.3.9.jar",
+      "required": true
+    },
+    {
+      "name": "camera-neoforge-1.21.1-1.0.21.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/camera-neoforge-1.21.1-1.0.21.jar",
+      "required": true
+    },
+    {
+      "name": "carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "required": true
+    },
+    {
+      "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "required": true
+    },
+    {
+      "name": "connectivity-1.21.1-7.2.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/connectivity-1.21.1-7.2.jar",
+      "required": true
+    },
+    {
+      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "required": true
+    },
+    {
+      "name": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/corpse-neoforge-1.21.1-1.1.13.jar",
+      "required": true
+    },
+    {
+      "name": "crazythings-1.1.2-neoforge-1.21.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/crazythings-1.1.2-neoforge-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "create-1.21.1-6.0.6.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/create-1.21.1-6.0.6.jar",
+      "required": true
+    },
+    {
+      "name": "create-central-kitchen-2.2.3b.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/create-central-kitchen-2.2.3b.jar",
+      "required": true
+    },
+    {
+      "name": "create-dragons-plus-1.8.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/create-dragons-plus-1.8.1.jar",
+      "required": true
+    },
+    {
+      "name": "createaddition-1.5.3.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/createaddition-1.5.3.jar",
+      "required": true
+    },
+    {
+      "name": "create_hypertube-0.2.5-NEOFORGE.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/create_hypertube-0.2.5-NEOFORGE.jar",
+      "required": true
+    },
+    {
+      "name": "CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Cucumber-1.21.1-8.0.14.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/Cucumber-1.21.1-8.0.14.jar",
+      "required": true
+    },
+    {
+      "name": "cupboard-1.21-2.9.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/cupboard-1.21-2.9.jar",
+      "required": true
+    },
+    {
+      "name": "CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar",
+      "required": true
+    },
+    {
+      "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "fastleafdecay-35.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/fastleafdecay-35.jar",
+      "required": true
+    },
+    {
+      "name": "FazRoleplayClothes-Neo1.21.1-1.6.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/FazRoleplayClothes-Neo1.21.1-1.6.1.jar",
+      "required": true
+    },
+    {
+      "name": "FluxNetworks-1.21.1-8.0.0.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/FluxNetworks-1.21.1-8.0.0.jar",
+      "required": true
+    },
+    {
+      "name": "ftb-essentials-neoforge-2101.1.7.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/ftb-essentials-neoforge-2101.1.7.jar",
+      "required": true
+    },
+    {
+      "name": "ftb-library-neoforge-2101.1.21.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/ftb-library-neoforge-2101.1.21.jar",
+      "required": true
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.8.2.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "required": true
+    },
+    {
+      "name": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "required": true
+    },
+    {
+      "name": "gpumemleakfix-1.21-1.8.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/gpumemleakfix-1.21-1.8.jar",
+      "required": true
+    },
+    {
+      "name": "hiddennames-1.21.0-1.0.6.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/hiddennames-1.21.0-1.0.6.jar",
+      "required": true
+    },
+    {
+      "name": "ironchest-1.21-neoforge-16.0.7.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/ironchest-1.21-neoforge-16.0.7.jar",
+      "required": true
+    },
+    {
+      "name": "mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "Mekanism-1.21.1-10.7.16.82.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/Mekanism-1.21.1-10.7.16.82.jar",
+      "required": true
+    },
+    {
+      "name": "MekanismGenerators-1.21.1-10.7.16.82.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/MekanismGenerators-1.21.1-10.7.16.82.jar",
+      "required": true
+    },
+    {
+      "name": "MekanismTools-1.21.1-10.7.16.82.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/MekanismTools-1.21.1-10.7.16.82.jar",
+      "required": true
+    },
+    {
+      "name": "mes-1.4.6-1.21.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/mes-1.4.6-1.21.jar",
+      "required": true
+    },
+    {
+      "name": "moonlight-1.21-2.23.9-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/moonlight-1.21-2.23.9-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "MysticalAgriculture-1.21.1-8.0.19.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/MysticalAgriculture-1.21.1-8.0.19.jar",
+      "required": true
+    },
+    {
+      "name": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "required": true
+    },
+    {
+      "name": "pointblank-neoforge-1.21.1-2.1.0.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/pointblank-neoforge-1.21.1-2.1.0.jar",
+      "required": true
+    },
+    {
+      "name": "SecurityCraft-v1.10.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/SecurityCraft-v1.10.jar",
+      "required": true
+    },
+    {
+      "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.25.8.1380.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/sophisticatedbackpacks-1.21.1-3.25.8.1380.jar",
+      "required": true
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.3.77.1173.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.3.77.1173.jar",
+      "required": true
+    },
+    {
+      "name": "spark-1.10.124-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/spark-1.10.124-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "supplementaries-1.21-3.4.16-neoforge.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/supplementaries-1.21-3.4.16-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "required": true
+    },
+    {
+      "name": "trashslot-neoforge-1.21.1-21.1.4.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "required": true
+    },
+    {
+      "name": "waterframes-NEOFORGE-mc1.21.1-v2.1.21.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/waterframes-NEOFORGE-mc1.21.1-v2.1.21.jar",
+      "required": true
+    },
+    {
+      "name": "watermedia-2.1.35.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/watermedia-2.1.35.jar",
+      "required": true
+    },
+    {
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/watut-neoforge-1.21.0-1.2.7.jar",
+      "required": true
+    }
+  ],
+  "optionalMods": [
+    {
+      "name": "chat_heads-0.13.21-neoforge-1.21.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/chat_heads-0.13.21-neoforge-1.21.jar",
+      "required": false
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.21.2.313.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/jei-1.21.1-neoforge-19.21.2.313.jar",
+      "required": false
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.5.35.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/voicechat-neoforge-1.21.1-2.5.35.jar",
+      "required": false
+    }
+  ]
+}
